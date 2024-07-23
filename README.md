@@ -7,3 +7,6 @@ As I continue my journey in QA resting assurance, I am always on the lookout for
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and practicing them with my team
 - Communication: I have a strong ability to communicate effectively with my team and clients. 
 - Teamwork: I enjoy working in a team environment and am always willing to lend a hand to whoever needs it.
+## Technologies
+- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
+- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
