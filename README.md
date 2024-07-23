@@ -10,3 +10,7 @@ As I continue my journey in QA resting assurance, I am always on the lookout for
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+## Hobbies
+- Reading: I enjoy reading, my favourite are the ones with romance, as well, thriller is fascinating.
+- Travelling: I love to travel, I've been to many places in my country and abroad, I hope I'll continue meetting different places.
+- Bakery: I love making desserts, I'm not a professional but I enjoy it.
